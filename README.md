@@ -1,4 +1,4 @@
 # Housing
-Analyzing house market and **predicting price**.
+**Predicting California House blocks'price.**
 
-Full dataset is available on Kaggle: https://www.kaggle.com/datasets/yasserh/housing-prices-dataset
+Full dataset is available on Kaggle: 
