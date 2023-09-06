@@ -22,5 +22,5 @@ Full dataset is available on Kaggle: https://www.kaggle.com/datasets/kathuman/ho
 
 **Conclusion**
 1. Ensmeble seems to be the best model, the one that should be implemented achieving an explained variance on never_seen_data of **80.188%**
-2. Ensmeble predictions' residuals don't follow a normal distribution; on higher prices' predictions an understimation is made
+2. Ensmeble predictions' residuals don't follow a normal distribution; there is a general tendency for prices to be underestimated. The main problem is the understimation of lower prices bacause it could lead to a negative price's estimation
 3. Despite this this model has a mean error of **42578$**, which as percentage is a mean of **16.228%** error 
